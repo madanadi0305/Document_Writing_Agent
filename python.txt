@@ -1,0 +1,31 @@
+Python Data Structures Summary:
+
+1. **Lists**: Ordered, mutable collections of items. They can contain mixed data types.
+   - Example: `my_list = [1, 2, 3, 'apple']`
+
+2. **Tuples**: Ordered, immutable collections of items. They can also contain mixed data types.
+   - Example: `my_tuple = (1, 2, 3, 'apple')`
+
+3. **Sets**: Unordered collections of unique items. They are mutable and do not allow duplicates.
+   - Example: `my_set = {1, 2, 3, 'apple'}`
+
+4. **Dictionaries**: Unordered collections of key-value pairs. Keys must be unique and immutable.
+   - Example: `my_dict = {'name': 'Alice', 'age': 25}`
+
+5. **Strings**: Immutable sequences of characters. Strings can be indexed and sliced.
+   - Example: `my_string = 'Hello, World!'`
+
+6. **Arrays**: Similar to lists but more efficient for numerical data. Requires the `array` module.
+   - Example: `import array; my_array = array.array('i', [1, 2, 3])`
+
+7. **Byte Arrays**: Mutable sequences of bytes. Useful for binary data manipulation.
+   - Example: `my_byte_array = bytearray(b'Hello')`
+
+8. **Queues**: Collections that follow the First In First Out (FIFO) principle. Can be implemented using `collections.deque`.
+   - Example: `from collections import deque; my_queue = deque([1, 2, 3])`
+
+9. **Stacks**: Collections that follow the Last In First Out (LIFO) principle. Can be implemented using lists.
+   - Example: `my_stack = []; my_stack.append(1); my_stack.append(2); my_stack.pop()`
+
+10. **Linked Lists**: A collection of nodes, where each node contains data and a reference to the next node. Not built-in, but can be implemented using classes.
+   - Example: `class Node: def __init__(self, data): self.data = data; self.next = None`

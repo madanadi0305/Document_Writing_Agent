@@ -1,0 +1,38 @@
+The Pythagorean theorem is a fundamental principle in geometry that relates to right triangles. It states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. This can be expressed with the formula:
+
+c² = a² + b²
+
+Where:
+- c is the length of the hypotenuse,
+- a and b are the lengths of the other two sides.
+
+This theorem is used in various applications, including construction, navigation, and physics, to determine distances and relationships between different points.The formula for (a+b)^2 is: (a+b)^2 = a^2 + 2ab + b^2.Factorization:
+
+1. **Difference of Squares**:  
+   a^2 - b^2 = (a - b)(a + b)  
+
+2. **Perfect Square Trinomials**:  
+   a^2 + 2ab + b^2 = (a + b)^2  
+   a^2 - 2ab + b^2 = (a - b)^2  
+
+3. **Sum of Cubes**:  
+   a^3 + b^3 = (a + b)(a^2 - ab + b^2)  
+
+4. **Difference of Cubes**:  
+   a^3 - b^3 = (a - b)(a^2 + ab + b^2)  
+
+5. **Quadratic Trinomials**:  
+   ax^2 + bx + c = (px + q)(rx + s)  
+   (where p, q, r, s are constants that satisfy the equation)  
+
+6. **Grouping**:  
+   ax + ay + bx + by = (a + b)(x + y)  
+
+7. **Factoring by Substitution**:  
+   If a polynomial can be expressed in terms of a new variable, factor it as such.  
+   Example: Let u = x^2, then x^4 - 5x^2 + 6 = u^2 - 5u + 6 = (u - 2)(u - 3) = (x^2 - 2)(x^2 - 3)  
+
+8. **Common Factor**:  
+   ax + ay = a(x + y)  
+
+These formulas are fundamental in algebra for simplifying expressions and solving equations.

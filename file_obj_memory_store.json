@@ -1,0 +1,27 @@
+{
+    "file_path": "documents",
+    "file_extension": ".txt",
+    "file_name": "document",
+    "file_content": "This is a document",
+    "file_type": "text",
+    "file_size": 100,
+    "file_created_at": "2026-06-19 22:50:19.019511",
+    "fifa_news.txt": {
+        "file_content": "France won the FIFA 2018 World Cup.",
+        "file_type": "text",
+        "file_size": 35,
+        "file_created_at": "2026-06-19 22:50:35.855635"
+    },
+    "math.txt": {
+        "file_content": "The Pythagorean theorem is a fundamental principle in geometry that relates to right triangles. It states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. This can be expressed with the formula:\n\nc\u00b2 = a\u00b2 + b\u00b2\n\nWhere:\n- c is the length of the hypotenuse,\n- a and b are the lengths of the other two sides.\n\nThis theorem is used in various applications, including construction, navigation, and physics, to determine distances and relationships between different points.\nThe formula for (a+b)^2 is: (a+b)^2 = a^2 + 2ab + b^2.\nFactorization:\n\n1. **Difference of Squares**:  \n   a^2 - b^2 = (a - b)(a + b)  \n\n2. **Perfect Square Trinomials**:  \n   a^2 + 2ab + b^2 = (a + b)^2  \n   a^2 - 2ab + b^2 = (a - b)^2  \n\n3. **Sum of Cubes**:  \n   a^3 + b^3 = (a + b)(a^2 - ab + b^2)  \n\n4. **Difference of Cubes**:  \n   a^3 - b^3 = (a - b)(a^2 + ab + b^2)  \n\n5. **Quadratic Trinomials**:  \n   ax^2 + bx + c = (px + q)(rx + s)  \n   (where p, q, r, s are constants that satisfy the equation)  \n\n6. **Grouping**:  \n   ax + ay + bx + by = (a + b)(x + y)  \n\n7. **Factoring by Substitution**:  \n   If a polynomial can be expressed in terms of a new variable, factor it as such.  \n   Example: Let u = x^2, then x^4 - 5x^2 + 6 = u^2 - 5u + 6 = (u - 2)(u - 3) = (x^2 - 2)(x^2 - 3)  \n\n8. **Common Factor**:  \n   ax + ay = a(x + y)  \n\nThese formulas are fundamental in algebra for simplifying expressions and solving equations.",
+        "file_type": "text",
+        "file_size": 1530,
+        "file_created_at": "2026-06-20 13:58:34.379313"
+    },
+    "python.txt": {
+        "file_content": "Python Data Structures Summary:\n\n1. **Lists**: Ordered, mutable collections of items. They can contain mixed data types.\n   - Example: `my_list = [1, 2, 3, 'apple']`\n\n2. **Tuples**: Ordered, immutable collections of items. They can also contain mixed data types.\n   - Example: `my_tuple = (1, 2, 3, 'apple')`\n\n3. **Sets**: Unordered collections of unique items. They are mutable and do not allow duplicates.\n   - Example: `my_set = {1, 2, 3, 'apple'}`\n\n4. **Dictionaries**: Unordered collections of key-value pairs. Keys must be unique and immutable.\n   - Example: `my_dict = {'name': 'Alice', 'age': 25}`\n\n5. **Strings**: Immutable sequences of characters. Strings can be indexed and sliced.\n   - Example: `my_string = 'Hello, World!'`\n\n6. **Arrays**: Similar to lists but more efficient for numerical data. Requires the `array` module.\n   - Example: `import array; my_array = array.array('i', [1, 2, 3])`\n\n7. **Byte Arrays**: Mutable sequences of bytes. Useful for binary data manipulation.\n   - Example: `my_byte_array = bytearray(b'Hello')`\n\n8. **Queues**: Collections that follow the First In First Out (FIFO) principle. Can be implemented using `collections.deque`.\n   - Example: `from collections import deque; my_queue = deque([1, 2, 3])`\n\n9. **Stacks**: Collections that follow the Last In First Out (LIFO) principle. Can be implemented using lists.\n   - Example: `my_stack = []; my_stack.append(1); my_stack.append(2); my_stack.pop()`\n\n10. **Linked Lists**: A collection of nodes, where each node contains data and a reference to the next node. Not built-in, but can be implemented using classes.\n   - Example: `class Node: def __init__(self, data): self.data = data; self.next = None`",
+        "file_type": "text",
+        "file_size": 1695,
+        "file_created_at": "2026-06-20 13:59:42.038749"
+    }
+}
