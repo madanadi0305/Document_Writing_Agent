@@ -22,8 +22,8 @@ Langchain Agent and Tooling : To handle document writes
 OpenAI model: gpt-4o-mini
 
 # Future Scope:
-1. This app can have a gui like Codex Desktop,,Gemini
-2. This app can be productionized into a Docker Container
+1. This app can have a gui like Codex Desktop,Claude Desktop,Gemini
+2. This app can be productionized into a Docker Container and used with Database to retreive contents
 3. This app can be further used with Notion, Linkedin, Docker to broadcast and streamline content
 
 
